@@ -1,0 +1,24 @@
+html, body{
+    height: 100%;
+    background: #f7f7f7;
+}
+
+/* .react-pdf__Page{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+*/
+
+.react-pdf__Document{
+    text-align: center;
+}  
+
+.react-pdf__Page__canvas{
+    margin: auto;
+}
+
+.ui.menu:not(.vertical) .right.item.image{
+    margin-left: 0 !important;
+}
